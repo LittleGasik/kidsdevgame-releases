@@ -1,5 +1,5 @@
 {
-  "version": "0.1.3",
-  "apk_url": "https://github.com/LittleGasik/kidsdevgame-releases/releases/download/v0.1.3/app-release.apk",
-  "notes": "Раскраски за звёзды. В «Продолжи ряд» кучки кружков больше не слипаются."
+  "version": "0.1.4",
+  "apk_url": "https://github.com/LittleGasik/kidsdevgame-releases/releases/download/v0.1.4/app-release.apk",
+  "notes": "27 раскрасок. Каждая стоит 10 звёзд и открывается после каждых 10 собранных."
 }
